@@ -35,7 +35,7 @@ I love learning how intelligent systems work, from **neural networks** to **natu
 ---
 
 ## 🌐 Connect with Me
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/asmaa-salem-33b7852b4)
+- 💼  [linkedin](https://www.linkedin.com/in/asmaa-salem-33b7852b4)
 ---
 
 <p align="center">
