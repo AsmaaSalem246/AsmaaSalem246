@@ -1,43 +1,125 @@
 <h1 align="center">👋 Hi, I'm Asmaa Salem</h1>
 
 <p align="center">
-🎓 Final-year AI Student at the Faculty of Computer Science & Artificial Intelligence, Helwan University  
-💡 Specializing in Artificial Intelligence and passionate about solving real-world problems with technology  
-🚀 Exploring Machine Learning, Deep Learning, and NLP to create intelligent, data-driven systems
+🎓 AI Graduate | Excellent GPA (3.48/4.0) <br>
+💻 AI Engineer | Machine Learning | Data Analyst |Data Scientist | Generative AI <br>
+🚀 Building Intelligent Systems with LLMs, Multi-Agent AI, Computer Vision, and Data Analytics
 </p>
 
 ---
 
 ## 💫 About Me
 
-Hi there! I'm **Asmaa Salem**, a final-year **AI student** at **Helwan University** with a strong passion for **Artificial Intelligence** and **Data Science**.  
-I love learning how intelligent systems work, from **neural networks** to **natural language models**, and I’m always seeking ways to apply theory to practice through projects and research.  
+Hi! I'm **Asmaa Salem**, a **Computer Science and Artificial Intelligence graduate** from **Helwan University** with an **Excellent GPA (3.48/4.0)**.
 
-✨ I believe in continuous learning and collaboration to build smart, ethical, and impactful AI solutions.
+I am passionate about building intelligent systems using **Machine Learning**, **Generative AI**, **Natural Language Processing**, **Computer Vision**, and **Multi-Agent AI**.
+
+Currently, I work as a **Coding Instructor at iSchool (DECI Program)**, where I teach programming and AI concepts, while also gaining industry experience as a **Data Analyst Intern at Ertekaa**, transforming raw data into actionable insights.
+
+I enjoy solving real-world problems through AI, continuously learning emerging technologies, and developing scalable AI-powered applications.
+
+---
+
+## 💼 Experience
+
+- 👨‍🏫 **Coding Instructor — iSchool (DECI Program)**
+- 📊 **Data Analyst Intern — Ertekaa**
+- 🤖 **Generative AI Professional — Digital Egypt Pioneers Initiative (DEPI)**
+- 📚 **Mathematics Teacher**
 
 ---
 
 ## 🧠 Skills & Technologies
 
-- **Programming Languages:** Python, SQL, C++  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch ,opencv 
-- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+### Programming
+- Python
+- SQL
+- C++
+- JavaScript
+- HTML
+- CSS
 
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Computer Vision
+
+### AI Frameworks & Libraries
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- LangChain
+- LangGraph
+- OpenCV
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Data Analytics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Flask
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 EduGenie (Graduation Project)
+AI-powered educational platform that generates personalized learning experiences using Large Language Models, intelligent tutoring, quizzes, and adaptive learning.
+
+### 🤖 Multi-Agent Research Assistant
+An intelligent research assistant built with **LangGraph** and **LangChain**, featuring specialized agents for planning, searching, summarizing, and answering complex research questions.
+
+### 📈 AI Marketing Multi-Agent System
+A collaborative AI marketing platform that automates customer analysis, content generation, campaign planning, and performance reporting using multiple AI agents.
+
+### 😊 Automated Face Attendance System
+Face Recognition-based attendance system that automatically identifies students and records attendance with high accuracy.
 
 ---
 
 ## 🏆 Highlights
 
-- 🎯 Deep interest in **Machine Learning**, **Deep Neural Networks**, and **Natural Language Processing**  
-- 💻 Experienced in building AI-driven projects for academic and practical use  
-- 📚 Constantly learning about **modern AI architectures** and **ethical AI applications**
+- 🎯 Passionate about Artificial Intelligence and solving real-world problems.
+- 🤖 Experienced in developing Multi-Agent AI applications.
+- 📊 Strong background in Data Analysis and Business Intelligence.
+- 🧠 Interested in LLMs, RAG, NLP, and Intelligent Automation.
+- 👩‍🏫 Passionate about teaching programming and mentoring students.
+- 📚 Continuous learner exploring cutting-edge AI technologies.
 
 ---
 
 ## 🌐 Connect with Me
-- 💼  [linkedin](https://www.linkedin.com/in/asmaa-salem-33b7852b4)
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/asmaa-salem-33b7852b4
+
+📧 **Email**  
+asmaasalem246@gmail.com
+
+🐙 **GitHub**  
+https://github.com/AsmaaSalem246
+
 ---
 
 <p align="center">
-✨ "AI is not just technology — it's the art of making machines think, learn, and inspire." ✨  
+
+⭐ <b>"Transforming data into intelligence and ideas into impactful AI solutions."</b>
+
 </p>
