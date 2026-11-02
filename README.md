@@ -108,7 +108,8 @@ Face Recognition-based attendance system that automatically identifies students 
 ## 🌐 Connect with Me
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/asmaa-salem-33b7852b4
+www.linkedin.com/in/asmaasalem2
+
 
 📧 **Email**  
 asmaasalem246@gmail.com
